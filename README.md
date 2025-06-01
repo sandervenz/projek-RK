@@ -32,7 +32,7 @@ Anggota:
 
 ## Tentang Dashboard
 
-Dashboard ini dibuat dengan Python dan Streamlit untuk memudahkan visualisasi dan interaksi metode pencarian akar.
+Dashboard ini dibuat dengan ReactJs untuk memudahkan visualisasi dan interaksi metode pencarian akar.
 
 **Akses dashboard:**  
 [➡️ Kunjungi Dashboard Pencarian Akar](https://rekayasakomputasional-3ia14-kelompok3.netlify.app/)
